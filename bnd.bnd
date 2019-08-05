@@ -1,0 +1,6 @@
+Bundle-Name: Liferay season Segment
+Bundle-SymbolicName: com.liferay.demo.segments.season
+Bundle-Version: 1.0.0
+Web-ContextPath: /rule-season
+
+Import-Package: !org.apache.avalon.framework.logger,!org.apache.log,*
